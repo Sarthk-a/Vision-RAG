@@ -1,3 +1,13 @@
+## Last Updated by Bot
+
+This section was automatically updated by the pull-merge bot on 2026-07-13T22:08:24.016Z.
+
+### Changes Made:
+- Automated README update
+- Timestamp: 2026-07-13T22:08:24.016Z
+- Updated by: Sarthk-a
+- Branch: jonny
+
 Insight Graph
 Multimodal RAG Agent with Vision-Enhanced Document Intelligence
 
